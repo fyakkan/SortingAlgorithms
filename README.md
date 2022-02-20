@@ -1,4 +1,4 @@
-#Sorting Algorithms
+# Sorting Algorithms
 ## Introduction 
 Sorting algorithms that arrange the items in a list or array according to certain rules, these rules can be alphabetical order, numerical ascending and descending order. These algorithms serve certain purposes, some of these purposes are that to increase the efficiency of search algorithms and to make analysis possible by given people.
 The efficiency of algorithms is measured with the big o notation. Some sorting algorithms may perform better than others. For example, counting sort can have smaller "big o notation "than based on comparison algorithm sort.
